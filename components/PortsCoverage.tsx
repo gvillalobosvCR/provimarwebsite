@@ -160,7 +160,7 @@ export default function PortsCoverage() {
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 mb-24 max-w-5xl mx-auto">
           <Counter target={30} label="Years Experience" />
           <Counter target={12} label="Ports Covered" />
-          <Counter target={500} label="Vessels Served" />
+          <Counter target={5000} label="Vessels Served" />
           <Counter target={24} label="Hours Availability" />
         </div>
 
