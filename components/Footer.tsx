@@ -38,7 +38,7 @@ export default function Footer() {
             </div>
             <p className="text-white/50 text-sm leading-relaxed mb-8 max-w-xs">
               Providing professional ship supply and provisioning services in Costa Rica since
-              2009. Quality, reliability, and excellence in every port.
+              1996. Quality, reliability, and excellence in every port.
             </p>
             <div className="flex gap-4">
               <a
